@@ -10,6 +10,10 @@ int subtract(int a, int b) {
     return a - b;
 }
 
+int divide(int a, int b) {
+    return a / b;
+}
+
 int main() {
     cout<<"Hello"<<endl;
 }
